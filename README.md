@@ -4,20 +4,22 @@
 
 > Woooow! Look at this 👀
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Olá pessoal, estou participando do Bootcamp da DIO com a CAIXA. Inspirada na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+Podcast: Uma fofoca sobre o descobrimento do Brasil 🎙️
+📒 Descrição
+Este podcast de apenas 4 minutos oferece uma visão engraçada e cativante sobre a história do descobrimento do Brasil.
 
-### Objetivos
+🤖 Tecnologias Utilizadas
+IA Generativa ChatGPT para contar a história do descobrimento do Brasil. 
+Google Notebook LM para gerar o podcast.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+🧐 Processo de Criação
+"ChatGPT" foi utilizado para contar a história do descobrimento do Brasil em tom de fofoca. Prompt utilizado: "Conte a história do descobrimento do Brasil em tom de fofoca."
+"Google Notebook LM" foi usado para gerar o podcast, na opção "visão geral em áudio". 
 
-### Template
+🚀 Resultados
+Versão beta com dois apresentadores (em inglês), aqui: https://notebooklm.google.com/notebook/1d771b9f-f85f-4e55-88a8-56205cf97044/audio
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
