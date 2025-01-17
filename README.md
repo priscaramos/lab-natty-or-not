@@ -21,24 +21,7 @@ Google Notebook LM para gerar o podcast.
 🚀 Resultados
 Versão beta com dois apresentadores (em inglês), aqui: https://notebooklm.google.com/notebook/1d771b9f-f85f-4e55-88a8-56205cf97044/audio
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
 
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
 
 ### Exemplos e Insigths
 
